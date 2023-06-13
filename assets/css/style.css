@@ -1,0 +1,473 @@
+import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&family=Roboto: 100,200,300,400,500,600,700');
+
+
+
+* {
+
+margin: 0;
+
+padding: 0;
+
+border: none;
+
+    }
+
+header{
+
+    margin:0;
+
+}
+
+
+
+
+
+body{
+
+    background-color: fuchsia;
+
+    background-position: center;
+
+     background-size: cover;
+
+     background-clip: padding-box;
+
+     background-attachment: fixed;
+
+     background-repeat: repeat-x;
+
+     margin: 0;
+
+     padding: 0%;
+
+     border: none;
+
+}
+
+     
+
+    
+
+    
+
+    .nav-link{position:relative;
+
+    left: 900px;
+
+    color:bisque;}
+
+
+
+    .navbar-brand{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    font-style: oblique;
+
+    font-weight: 800;
+
+    color: white;
+
+    }
+
+
+
+
+
+    .navbar{background-color: darkorchid;
+
+
+
+    .secondlogo{position: relative;
+
+    left: 100px;}
+
+
+
+
+
+}.rounded float-left{
+
+    position: relative;
+
+    left: 30px;
+
+}
+
+.rounded float-right{
+
+    position:relative
+
+    left: 30px;
+
+}
+
+
+
+.map{
+
+    position:relative;
+
+    top: 200px;
+
+}
+
+
+
+.header{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    color:white;
+
+    text-align:center;
+
+    text-transform: capitalize;
+
+    text-decoration: dashed;
+
+    font-size: 20px;
+
+}
+
+.nail-image{
+
+    position: absolute;
+
+    top: 400px;
+
+}
+
+.paragraph1{
+
+    position:relative;
+
+    top: 70px;
+
+    color: white;
+
+}
+
+.paragraph2{
+
+    position:relative;
+
+    top: 250px;
+
+    left: 450px;
+
+    color: white;
+
+}
+
+.carousel-inner{
+
+    position:relative;
+
+top:300px;
+
+}
+
+.carousel-slide{ 
+
+    position:relative;
+
+    top: 500px;00px;
+
+}
+
+
+
+.footer{
+
+    position:relative;
+
+    top: 500px;100px;
+
+    padding:0px;
+
+    
+
+}
+
+.image5{
+
+    position:relative;
+
+    top: 500px;100px;
+
+    width: 700px;
+
+    max-width: 100;
+
+}
+
+  
+
+
+
+ .navbar-text{ 
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ font-style: oblique;
+
+ font-weight: 700;
+
+ color:white;
+
+ float: inline-end;
+
+ font-size: medium;
+
+}
+
+
+
+.container{
+
+    position: relative;
+
+    top: 20px;
+
+    right: 50px;
+
+  }
+
+
+
+
+
+PAGE CONTACT 
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&family=Roboto: 100,200,300,400,500,600,700');
+
+
+
+* {
+
+margin: 0;
+
+padding: 0;
+
+border: none;
+
+    }
+
+header{
+
+    margin:0;
+
+}
+
+
+
+
+
+body{
+
+    background-color: fuchsia;
+
+    background-position: center;
+
+     background-size: cover;
+
+     background-clip: padding-box;
+
+     background-attachment: fixed;
+
+     background-repeat: repeat-x;
+
+     margin: 0;
+
+     padding: 0%;
+
+     border: none;
+
+}
+
+     
+
+    
+
+    
+
+    .nav-link{position:relative;
+
+    left: 900px;
+
+    color:bisque;}
+
+
+
+    .navbar-brand{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    font-style: oblique;
+
+    font-weight: 800;
+
+    color: white;
+
+    }
+
+
+
+
+
+    .navbar{background-color: darkorchid;
+
+
+
+    .secondlogo{position: relative;
+
+    left: 100px;}
+
+
+
+
+
+}.rounded float-left{
+
+    position: relative;
+
+    left: 30px;
+
+}
+
+.rounded float-right{
+
+    position:relative
+
+    left: 30px;
+
+}
+
+
+
+.map{
+
+    position:relative;
+
+    top: 200px;
+
+}
+
+
+
+.header{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    color:white;
+
+    text-align:center;
+
+    text-transform: capitalize;
+
+    text-decoration: dashed;
+
+    font-size: 20px;
+
+}
+
+.nail-image{
+
+    position: absolute;
+
+    top: 400px;
+
+}
+
+.paragraph1{
+
+    position:relative;
+
+    top: 70px;
+
+    color: white;
+
+}
+
+.paragraph2{
+
+    position:relative;
+
+    top: 250px;
+
+    left: 450px;
+
+    color: white;
+
+}
+
+.carousel-inner{
+
+    position:relative;
+
+top:300px;
+
+}
+
+.carousel-slide{ 
+
+    position:relative;
+
+    top: 500px;00px;
+
+}
+
+
+
+.footer{
+
+    position:relative;
+
+    top: 500px;100px;
+
+    padding:0px;
+
+    
+
+}
+
+.image5{
+
+    position:relative;
+
+    top: 500px;100px;
+
+    width: 700px;
+
+    max-width: 100;
+
+}
+
+  
+
+
+
+ .navbar-text{ 
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+ font-style: oblique;
+
+ font-weight: 700;
+
+ color:white;
+
+ float: inline-end;
+
+ font-size: medium;
+
+}
+
+
+
+.container{
+
+    position: relative;
+
+    top: 20px;
+
+    right: 50px;
+
+  }
