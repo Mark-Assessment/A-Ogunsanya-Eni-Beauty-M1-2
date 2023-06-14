@@ -1,14 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&family=Roboto: 100,200,300,400,500,600,700');
 
-* {
-margin: 0;
-padding: 0;
-border: none;
-    }
-header{
-    margin:0;
-}
+
 
 
 body{
@@ -51,11 +44,6 @@ body{
     left: 30px;
 }
 
-.map{
-    position:relative;
-    top: 200px;
-}
-
 .header{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:white;
@@ -88,12 +76,6 @@ top:300px;
     top: 500px;00px;
 }
 
-.footer{
-    position:relative;
-    top: 500px;100px;
-    padding:0px;
-    
-}
 
   
 
@@ -115,6 +97,16 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     height: 600px;
 }
 
+.First-image{
+    position: relative;
+    left: 60px;
+}
+
+.second-image{ 
+    position:relative;
+    left: 80px;px;
+}
+
 .Eni-Beauty-salon{
     text-align: center;
 }
@@ -134,7 +126,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 #center-about {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
+
 }
 
 hr {
@@ -175,7 +167,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url('http://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/video-mask.png') no-repeat center center;
+    background: url(/assets/imagefolder/image25.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
