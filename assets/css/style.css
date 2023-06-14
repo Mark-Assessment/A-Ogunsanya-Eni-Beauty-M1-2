@@ -5,7 +5,7 @@
 
 
 body{
-    background-color: fuchsia;
+    background-color: rgb(87, 30, 87);
     background-position: center;
      background-size: cover;
      background-clip: padding-box;
@@ -105,10 +105,12 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .second-image{ 
     position:relative;
     left: 80px;px;
+    height: 30vh;
 }
 
 .Eni-Beauty-salon{
     text-align: center;
+    font-family:inherit;
 }
 
 #left-about{
@@ -167,7 +169,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url(/assets/imagefolder/image25.jpg) no-repeat center center;
+    background: url(/assets/images/image25.jpg) no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
