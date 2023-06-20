@@ -1,21 +1,24 @@
 # Enibeauty-salon--Milestone-
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
-
+Eni Beauty Salon is a premier nail salon committed to providing exceptional services in a welcoming and comfortable environment. Our team of skilled professionals is dedicated to ensuring that every client leaves with beautiful and meticulously crafted nails. From trendy nail designs to relaxing manicures and pedicures, we offer a wide range of services tailored to meet the unique preferences of our clients. Experience the luxury and pampering you deserve at Eni Beauty Salon, where your satisfaction is our top priority.
 
 User Experience (UX)
-User stories
-First Time Visitor Goals
-As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
-Returning Visitor Goals
-As a Returning Visitor, I want to find information about coding challenges.
-As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-As a Returning Visitor, I want to find community links.
-Frequent User Goals
-As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-As a Frequent User, I want to check to see if there are any new blog posts.
-As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+First Time Visitor Goals:
+As a First Time Visitor, I want to easily understand the range of services offered by Eni Beauty Salon and learn more about their expertise and specialties.
+As a First Time Visitor, I want to navigate the website easily to find information about pricing and availability.
+As a First Time Visitor, I want to read testimonials from previous clients to gain confidence in the quality and professionalism of Eni Beauty Salon.
+As a First Time Visitor, I want to find their social media links to get a sense of their online presence and see examples of their work.
+Returning Visitor Goals:
+
+As a Returning Visitor, I want to find updated information about any new services or promotions at Eni Beauty Salon.
+As a Returning Visitor, I want to quickly access contact information to schedule an appointment or ask questions.
+As a Returning Visitor, I want to find links to the Eni Beauty Salon community, such as forums or online groups, to connect with other clients and share experiences.
+Frequent User Goals:
+
+As a Frequent User, I want to check for any newly added nail designs or seasonal offers.
+As a Frequent User, I want to read the latest blog posts or articles on nail care tips and trends.
+As a Frequent User, I want to subscribe to Eni Beauty Salon's newsletter to receive updates on special events, exclusive offers, and important changes to their services.
+These user stories reflect the goals and expectations of different types of visitors to Eni Beauty Salon's website, including first-time visitors, returning visitors, and frequent users
+website or organisation.
 Design
 Colour Scheme
 The two main colours used are Code Insititue red, and white.

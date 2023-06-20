@@ -5,15 +5,15 @@
 
 
 body{
-    background-color: rgb(87, 30, 87);
+    background-color: rgb(87, 58, 87);
     background-position: center;
      background-size: cover;
      background-clip: padding-box;
      background-attachment: fixed;
      background-repeat: repeat-x;
-     margin: 0;
-     padding: 0%;
      border: none;
+     margin: 0%;
+     padding: 0%;
 }
      
     
@@ -29,7 +29,7 @@ body{
     }
 
 
-    .navbar{background-color: darkorchid;
+    .navbar{background-color: rgb(61, 58, 63);
 
     .secondlogo{position: relative;
     left: 100px;}
@@ -89,9 +89,15 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .container{
-    position: relative;
-    top: 20px;
+    text-align: center;
+    color: aliceblue;
+    font-weight: 200;
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 50px;
     right: 50px;
+
+
   }
   #club-ethos{
     height: 600px;
@@ -108,10 +114,16 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     height: 30vh;
 }
 
-.Eni-Beauty-salon{
+.Eni-beauty{
     text-align: center;
-    font-family:inherit;
+    color: aliceblue;
+    font-weight: 200;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+
+
 
 #left-about{
     padding-top: 30px;
@@ -143,6 +155,8 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    color:aliceblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .right-about-heading {
@@ -151,6 +165,8 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
 }
 
 .right-about-heading h2 {
