@@ -5,7 +5,7 @@
 
 
 body{
-    background-color: rgb(87, 58, 87);
+    background-color: rgb(201, 125, 201);
     background-position: center;
      background-size: cover;
      background-clip: padding-box;
@@ -22,14 +22,14 @@ body{
     left: 900px;
     color:bisque;}
 
-    .navbar-brand{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    .navbar-brand{ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: oblique;
     font-weight: 800;
     color: white;
     }
 
 
-    .navbar{background-color: rgb(61, 58, 63);
+    .navbar{background-color: rgb(52, 47, 55);
 
     .secondlogo{position: relative;
     left: 100px;}
@@ -51,10 +51,6 @@ body{
     text-transform: capitalize;
     text-decoration: dashed;
     font-size: 20px;
-}
-.nail-image{
-    position: absolute;
-    top: 400px;
 }
 .paragraph1{
     position:relative;
@@ -105,13 +101,18 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 .First-image{
     position: relative;
-    left: 60px;
+    left: 300px;
+    height: 30vh;
+    box-shadow: none;
+    margin: 0%;
 }
 
 .second-image{ 
-    position:relative;
-    left: 80px;px;
+    position:absolute;
+    right: 300px;
     height: 30vh;
+    box-shadow: 15dvh;
+    margin: 0%;
 }
 
 .Eni-beauty{
@@ -189,3 +190,4 @@ hr {
     height: 100%;
     border-radius: 50%;
 }
+
