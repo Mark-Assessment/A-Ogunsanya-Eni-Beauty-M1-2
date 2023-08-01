@@ -1,193 +1,155 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&family=Roboto: 100,200,300,400,500,600,700');
-
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&family=Roboto:ital,wght@1,300&display=swap');
 
 
 
 body{
-    background-color: rgb(201, 125, 201);
-    background-position: center;
-     background-size: cover;
-     background-clip: padding-box;
-     background-attachment: fixed;
-     background-repeat: repeat-x;
-     border: none;
-     margin: 0%;
-     padding: 0%;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    color:grey;
+    background-color:rgb(102, 60, 102);
 }
-     
+
+
+
+h2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color:#555555
+}
+
+#logo{
+    float: left;
+    font-size: 280%;
+    color:mintcream;
+    text-shadow: 0cm;
     
+}
+
+#menu{
+    font-size: 110%;
+    list-style: none;
+    letter-spacing: 4px;
+    display:block;
+    color:mintcream;
     
-    .nav-link{position:relative;
-    left: 900px;
-    color:bisque;}
-
-    .navbar-brand{ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-style: oblique;
-    font-weight: 800;
-    color: white;
-    }
-
-
-    .navbar{background-color: rgb(52, 47, 55);
-
-    .secondlogo{position: relative;
-    left: 100px;}
-
-
-}.rounded float-left{
-    position: relative;
-    left: 30px;
-}
-.rounded float-right{
-    position:relative
-    left: 30px;
 }
 
-.header{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:white;
-    text-align:center;
-    text-transform: capitalize;
-    text-decoration: dashed;
-    font-size: 20px;
+#menu li {
+    float:right;
+    margin-right: 30px;
 }
+
+#menu a{
+    text-decoration: none;
+    color:inherit;
+}
+#logo,#menu{
+    line-height: 75px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#menu a:hoover{
+    border-bottom: 1px solid #777777;
+}
+
+.active {
+    border-bottom: 1px solid #777777;
+}
+
+#eni-beauty-image{
+    height: 700px;
+    width:100%;
+    background: url(../images/image17.jpg) no-repeat center center;
+    animation-name: enibeauty-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+    padding: 0%;
+    margin: auto;
+
+}
+
+#eni-beauty-image-outer{
+    height: 700px;
+    width:100%;
+    overflow:hidden;
+}
+
+@keyframes enibeauty-zoom {
+    from{
+        transform: scale(1);
+ }
+    to{
+        transform: scale(1.1);
+ }
+}
+
+#advertisement{
+    text-align: center;
+    font-family: inherit;
+    letter: spacing 4px;
+    padding:0%;
+    margin:0%;
+}
+
+#Welcome-message{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 38px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
 .paragraph1{
-    position:relative;
-    top: 70px;
-    color: white;
-}
-.paragraph2{
-    position:relative;
-    top: 250px;
-    left: 450px;
-    color: white;
-}
-.carousel-inner{
-    position:relative;
-top:300px;
-}
-.carousel-slide{ 
-    position:relative;
-    top: 500px;00px;
-}
-
-
-  
-
- .navbar-text{ 
-font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
- font-style: oblique;
- font-weight: 700;
- color:white;
- float: inline-end;
- font-size: medium;
-}
-
-.container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-overflow: inherit;
     text-align: center;
-    color: aliceblue;
-    font-weight: 200;
-    font-size: 100px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    top: 50px;
-    right: 50px;
-
-
-  }
-  #club-ethos{
-    height: 600px;
+    color: azure;
 }
 
-.First-image{
-    position: relative;
-    left: 300px;
-    height: 30vh;
-    box-shadow: none;
-    margin: 0%;
-}
-
-.second-image{ 
-    position:absolute;
-    right: 300px;
-    height: 30vh;
-    box-shadow: 15dvh;
-    margin: 0%;
-}
-
-.Eni-beauty{
+.sectiontwo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-overflow: inherit;
     text-align: center;
-    color: aliceblue;
-    font-weight: 200;
-    font-size: 50px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: azure;
 }
 
-
-
-
-#left-about{
-    padding-top: 30px;
-    width: 33%;
-    float: left;
+footer{
+    height: 150px;
 }
 
-#right-about {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-}
-
-#center-about {
-    width: 33%;
-    margin: 0 auto;
+.social-networks{
+    text-align: center;
 
 }
 
-hr {
-    border-top: 1px solid #777777;
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
+}
+
+
+.imageclass{
+    font-size: 2px;
+    
+}
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+#photo img{
     width: 100%;
-    margin: 5px 0;
-}
-
-.left-about-heading {
-    width: 50%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-    color:aliceblue;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-.right-about-heading {
-    width: 50%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: aliceblue;
-}
-
-.right-about-heading h2 {
-    text-align: right;
 }
 
 
-  #circle-container {
-    width: 300px;
-    height: 300px;
-    padding: 30px;
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 50%;
-    margin: 0 auto;
-}
-
-#circle-cover-bg {
-    background: url(/assets/images/image25.jpg) no-repeat center center;
-    height: 100%;
-    border-radius: 50%;
-}
 
