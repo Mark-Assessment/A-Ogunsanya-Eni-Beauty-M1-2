@@ -172,11 +172,12 @@ p {
     background-color: #ffffff;
     padding: 40px;
     text-align: center;
-    max-width: 400px;
+    max-width: 500px;
     margin: 0 auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     height: 700px;
     width:100%;
+    line-height: 75px;
 
   }
 
@@ -230,6 +231,17 @@ p {
     background-color: #FF6347;
   }
   
+  .reviews-section {
+    padding: 30px;
+  }
+  
+  .review {
+    background-color: #ffffff;
+    padding: 20px;
+    max-width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
   
   
   
