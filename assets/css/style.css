@@ -2,16 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&family=Roboto:ital,wght@1,300&display=swap');
 
 
-
 body{
 
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     color:grey;
     background-color: #cf63bb;
+    margin: 0;
+    padding: 0;
 }
-
-
 
 h2{
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -34,7 +33,7 @@ h2{
     list-style: none;
     letter-spacing: 4px;
     display:block;
-    color:mintcream;
+    color: mintcream;
     
 }
 
@@ -76,6 +75,7 @@ h2{
     height: 700px;
     width:100%;
     overflow:hidden;
+    position: relative;
 }
 
 @keyframes enibeauty-zoom {
@@ -133,16 +133,6 @@ footer{
 }
 
 
-CSS (styles.css):
-
-css
-Copy code
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #f8f8f8;
-}
 
 .about-section {
   background-color: #f0e4ee;
@@ -200,6 +190,7 @@ p {
     height: 700px;
     width:100%;
     overflow:hidden;
+  
   }
   
   input,
@@ -243,6 +234,24 @@ p {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
   
+  h3 {
+    font-size: 24px;
+    color: #333333;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #666666;
+    margin-bottom: 20px;
+  }
+  
+  .review-author {
+    font-size: 14px;
+    color: #333333;
+    font-style: italic;
+    text-align: right;
+  }
   
   
   
