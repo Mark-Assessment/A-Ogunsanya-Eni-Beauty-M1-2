@@ -43,8 +43,6 @@ Languages Used
 HTML5
 CSS3
 Frameworks, Libraries & Programs Used
-Bootstrap 4.4.1:
-Bootstrap was used to assist with the responsiveness and styling of the website.
 Hover.css:
 Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 Google Fonts:
