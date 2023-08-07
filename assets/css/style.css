@@ -144,8 +144,8 @@ footer{
 #photo img{
     width: 100%;
     box-shadow: #ccc;
+    height: 300px;
 }
-
 
 
 .about-section {

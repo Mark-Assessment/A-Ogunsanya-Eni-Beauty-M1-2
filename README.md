@@ -1,4 +1,14 @@
 # Enibeauty-salon--Milestone-
+
+<h1 align="center">Eni beauty Salon</h1>
+
+[View the live project here.](https://tk3019.github.io/Enibeauty-salon--Milestone-/)
+
+This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+
+<h2 align="center"><img src="(<Eni beauty Frontend 2023-08-07 at 12.34.43.png>)"></h2>
+
+
 Eni Beauty Salon is a premier nail salon committed to providing exceptional services in a welcoming and comfortable environment. Our team of skilled professionals is dedicated to ensuring that every client leaves with beautiful and meticulously crafted nails. From trendy nail designs to relaxing manicures and pedicures, we offer a wide range of services tailored to meet the unique preferences of our clients. Experience the luxury and pampering you deserve at Eni Beauty Salon, where your satisfaction is our top priority.
 
 User Experience (UX)
