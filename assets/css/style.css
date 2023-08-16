@@ -36,7 +36,6 @@ h3{
     float: left;
     font-size: 280%;
     color:#f0e4ee;
-    text-shadow: 0cm;
     line-height: 0%;
     
 }
@@ -143,7 +142,6 @@ footer{
 
 #photo img{
     width: 100%;
-    box-shadow: #ccc;
     height: 300px;
 }
 

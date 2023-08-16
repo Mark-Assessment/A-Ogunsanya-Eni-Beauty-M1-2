@@ -42,6 +42,8 @@ This is the main marketing website for Code Institute. It is designed to be resp
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
+        <h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/Screenshot 2023-08-14 at 16.00.38.png"></h2>
+
 *   ### Wireframes
 
     -   Home Page Wireframe - ![View](assets/images/image15.jpg)
@@ -85,6 +87,8 @@ JavaScript.
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+-ipagespeed- 
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
@@ -132,18 +136,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### Frequent User Goals
 
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
+    1. As a Frequent User, I want to check to see if there are any newly added nail arts.
 
         1. The user would already be comfortable with the website layout and can easily click the banner message.
 
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
+    2. As a Frequent User, I want to check to see if there are any new nail arts blog posts.
 
         1. The user would already be comfortable with the website layout and can easily click the blog link
 
     3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
         1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
 
 ### Further Testing
 
