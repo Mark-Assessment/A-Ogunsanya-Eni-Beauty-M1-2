@@ -8,7 +8,7 @@
 
 This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
-<h2 align="center"><img src="../Enibeauty-salon--Milestone-/eni-beauty-frontend2.png"></h2>
+<h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/eni-beauty-frontend2.png"></h2>
 
 ## User Experience (UX)
 
@@ -34,6 +34,10 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
         3. As a Frequent User, I want to subscribe to Eni Beauty Salon's newsletter to receive updates on special events, exclusive offers, and important changes to their services.
 
+        <h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/Img-fronend 1.png"></h2>
+          <h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/img frontend 2 .png"></h2>
+
+
 -   ### Design
     -   #### Colour Scheme
         -   The two main colours used are Code Insititue purple, and pink.
@@ -42,15 +46,19 @@ This is the main marketing website for Code Institute. It is designed to be resp
     -   #### Imagery
         -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
 
-        <h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/Screenshot 2023-08-14 at 16.00.38.png"></h2>
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - ![View](assets/images/image15.jpg)
+    -   Home Page Wireframe - ![View](../Enibeauty-salon--Milestone-/assets/wireframes/Screenshot%202023-08-16%20at%2012.45.27.png)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Mobile Wireframe - ![View](../Enibeauty-salon--Milestone-/assets/wireframes/Screenshot%202023-08-16%20at%2012.45.45.png)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Contact Us Page Wireframe - ![View](../Enibeauty-salon--Milestone-/assets/wireframes/Screenshot%202023-08-16%20at%2012.51.58.png)
+
+
+<h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/frontend for ispeed.png"></h2>
+
+<h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/Frontend for ipage speed 2.png"></h2>
 
 ## Features
 
@@ -116,12 +124,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
+    1. As a Returning Visitor, I want to find the new Eni beauty salon service.
 
         1. These are clearly shown in the banner message.
-        2. They will be directed to a page with another hero image and call to action.
+        2. They will be directed to a page with eni beauty image.
 
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+    2. As a Returning Visitor, I want to find the best way to get in contact with the salon with any questions I may have.
 
         1. The navigation bar clearly highlights the "Contact Us" Page.
         2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
@@ -129,7 +137,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
         5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
 
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+    3. As a Returning Visitor, I want to find the Facebook Group link so that I can send message to the nail stylist.
+
         1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
         2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
         3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.

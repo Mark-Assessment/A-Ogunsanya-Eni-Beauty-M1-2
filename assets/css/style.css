@@ -125,7 +125,7 @@ footer{
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #777777;
+    color:whitesmoke;
 }
 
 
@@ -265,6 +265,8 @@ p {
     font-style: italic;
     text-align: right;
   }
+
+  <!-- Media Query section. -->
 
   @media screen and (max-width: 800px){
     body{
