@@ -8,7 +8,7 @@
 
 This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
-<h2 align="center"><img src="./Enibeauty-salon--Milestone-/assets/images/eni-beauty-frontend2.png"></h2>
+<h2 align="center"><img src="./assets/images/eni-beauty-frontend2.png"></h2>
 
 ## User Experience (UX)
 
@@ -34,8 +34,8 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
         3. As a Frequent User, I want to subscribe to Eni Beauty Salon's newsletter to receive updates on special events, exclusive offers, and important changes to their services.
 
-        <h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/Img-fronend 1.png"></h2>
-          <h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/img frontend 2 .png"></h2>
+        <h2 align="center"><img src="./assets/images/Img-fronend 1.png"></h2>
+          <h2 align="center"><img src="./assets/images/img frontend 2 .png"></h2>
 
 
 -   ### Design
@@ -51,14 +51,14 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
     -   Home Page Wireframe - ![View](./assets/wireframes/Screenshot%202023-08-16%20at%2012.45.27.png)
 
-    -   Mobile Wireframe - ![View](../Enibeauty-salon--Milestone-/assets/wireframes/Screenshot%202023-08-16%20at%2012.45.45.png)
+    -   Mobile Wireframe - ![View](./assets/wireframes/Screenshot%202023-08-16%20at%2012.45.45.png)
 
-    -   Contact Us Page Wireframe - ![View](../Enibeauty-salon--Milestone-/assets/wireframes/Screenshot%202023-08-16%20at%2012.51.58.png)
+    -   Contact Us Page Wireframe - ![View](./assets/wireframes/Screenshot%202023-08-16%20at%2012.51.58.png)
 
 
-<h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/frontend for ispeed.png"></h2>
+<h2 align="center"><img src="./assets/images/frontend for ispeed.png"></h2>
 
-<h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/Frontend for ipage speed 2.png"></h2>
+<h2 align="center"><img src="./assets/images/Frontend for ipage speed 2.png"></h2>
 
 ## Features
 
