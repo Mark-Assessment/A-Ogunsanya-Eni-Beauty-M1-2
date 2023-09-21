@@ -266,7 +266,7 @@ p {
     text-align: right;
   }
 
-  <!-- Media Query section. -->
+  /* Media Query section */
 
   @media screen and (max-width: 800px){
     body{
