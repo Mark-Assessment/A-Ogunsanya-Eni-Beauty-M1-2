@@ -8,7 +8,7 @@
 
 This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
-<h2 align="center"><img src="../Enibeauty-salon--Milestone-/assets/images/eni-beauty-frontend2.png"></h2>
+<h2 align="center"><img src="./Enibeauty-salon--Milestone-/assets/images/eni-beauty-frontend2.png"></h2>
 
 ## User Experience (UX)
 
@@ -49,7 +49,7 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - ![View](../Enibeauty-salon--Milestone-/assets/wireframes/Screenshot%202023-08-16%20at%2012.45.27.png)
+    -   Home Page Wireframe - ![View](./assets/wireframes/Screenshot%202023-08-16%20at%2012.45.27.png)
 
     -   Mobile Wireframe - ![View](../Enibeauty-salon--Milestone-/assets/wireframes/Screenshot%202023-08-16%20at%2012.45.45.png)
 
